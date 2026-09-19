@@ -4,7 +4,7 @@
 # In[2]:
 
 
-import matplotlib.pyplot as plt
+import matplotlib.pyplot as plt # just for fun
 import numpy as np
 
 LOOP_RADIUS = 1.5  # Фиксированный радиус петли.
